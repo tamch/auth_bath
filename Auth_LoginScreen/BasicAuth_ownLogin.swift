@@ -67,14 +67,13 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
 
                 urlSession = sapUrlSession
                 print("successful")
-                let storyboard = UIStoryboard(name: "Main", bundle: nil)
-                let StartScreen = storyboard.instantiateViewController(withIdentifier: "StartScreen") as! StartViewController
                 
-                self.appDelegate.window?.rootViewController = StartScreen
                 DispatchQueue.main.async {
-                    // Update the UI
-                   // self.hideIndicator()
-                    self.dismiss(animated: true)
+                    let storyboard = UIStoryboard(name: "Main", bundle: nil)
+                    let StartScreen = storyboard.instantiateViewController(withIdentifier: "StartScreen") as! StartViewController
+                    
+                    self.appDelegate.window?.rootViewController = StartScreen
+
                 }
             } else {
                 print("Logon process failure. It seems you got SAML authentication challenge.")
