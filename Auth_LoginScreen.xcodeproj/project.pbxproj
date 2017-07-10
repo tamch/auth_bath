@@ -7,21 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8A39237A1F132B83004C985A /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3923791F132B83004C985A /* TestViewController.swift */; };
 		8AE50C701F0E0A1300DC01F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C6F1F0E0A1300DC01F9 /* AppDelegate.swift */; };
-		8AE50C721F0E0A1300DC01F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C711F0E0A1300DC01F9 /* ViewController.swift */; };
+		8AE50C721F0E0A1300DC01F9 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */; };
 		8AE50C751F0E0A1300DC01F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AE50C731F0E0A1300DC01F9 /* Main.storyboard */; };
 		8AE50C771F0E0A1400DC01F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8AE50C761F0E0A1400DC01F9 /* Assets.xcassets */; };
 		8AE50C7A1F0E0A1400DC01F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AE50C781F0E0A1400DC01F9 /* LaunchScreen.storyboard */; };
+		8AE50C841F0E0B6D00DC01F9 /* LoginTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C831F0E0B6D00DC01F9 /* LoginTextField.swift */; };
+		8AE50C861F0E0B7900DC01F9 /* LoginButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C851F0E0B7900DC01F9 /* LoginButton.swift */; };
+		8AE50C8A1F0E0BC600DC01F9 /* KeystoreAuthenticator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C891F0E0BC600DC01F9 /* KeystoreAuthenticator.swift */; };
+		8AE50C8C1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C8B1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift */; };
+		8AE50C901F0E0CC200DC01F9 /* SAPCommon.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8AE50C8E1F0E0CC200DC01F9 /* SAPCommon.framework */; };
+		8AE50C911F0E0CC200DC01F9 /* SAPCommon.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 8AE50C8E1F0E0CC200DC01F9 /* SAPCommon.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8AE50C921F0E0CC200DC01F9 /* SAPFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8AE50C8F1F0E0CC200DC01F9 /* SAPFoundation.framework */; };
+		8AE50C931F0E0CC200DC01F9 /* SAPFoundation.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 8AE50C8F1F0E0CC200DC01F9 /* SAPFoundation.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8AE50C971F0E1C1200DC01F9 /* DataAccess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C961F0E1C1200DC01F9 /* DataAccess.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		8AE50C941F0E0CC200DC01F9 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				8AE50C931F0E0CC200DC01F9 /* SAPFoundation.framework in Embed Frameworks */,
+				8AE50C911F0E0CC200DC01F9 /* SAPCommon.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		8A3923791F132B83004C985A /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		8AE50C6C1F0E0A1300DC01F9 /* Auth_LoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Auth_LoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AE50C6F1F0E0A1300DC01F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8AE50C711F0E0A1300DC01F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		8AE50C741F0E0A1300DC01F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8AE50C761F0E0A1400DC01F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8AE50C791F0E0A1400DC01F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8AE50C7B1F0E0A1400DC01F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8AE50C831F0E0B6D00DC01F9 /* LoginTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginTextField.swift; sourceTree = "<group>"; };
+		8AE50C851F0E0B7900DC01F9 /* LoginButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginButton.swift; sourceTree = "<group>"; };
+		8AE50C891F0E0BC600DC01F9 /* KeystoreAuthenticator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeystoreAuthenticator.swift; sourceTree = "<group>"; };
+		8AE50C8B1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BasicAuth_ownLogin.swift; sourceTree = "<group>"; };
+		8AE50C8E1F0E0CC200DC01F9 /* SAPCommon.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SAPCommon.framework; path = Frameworks/Release/SAPCommon.framework; sourceTree = "<group>"; };
+		8AE50C8F1F0E0CC200DC01F9 /* SAPFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SAPFoundation.framework; path = Frameworks/Release/SAPFoundation.framework; sourceTree = "<group>"; };
+		8AE50C961F0E1C1200DC01F9 /* DataAccess.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataAccess.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +62,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8AE50C921F0E0CC200DC01F9 /* SAPFoundation.framework in Frameworks */,
+				8AE50C901F0E0CC200DC01F9 /* SAPCommon.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,6 +73,8 @@
 		8AE50C631F0E0A1300DC01F9 = {
 			isa = PBXGroup;
 			children = (
+				8AE50C8E1F0E0CC200DC01F9 /* SAPCommon.framework */,
+				8AE50C8F1F0E0CC200DC01F9 /* SAPFoundation.framework */,
 				8AE50C6E1F0E0A1300DC01F9 /* Auth_LoginScreen */,
 				8AE50C6D1F0E0A1300DC01F9 /* Products */,
 			);
@@ -54,14 +91,52 @@
 		8AE50C6E1F0E0A1300DC01F9 /* Auth_LoginScreen */ = {
 			isa = PBXGroup;
 			children = (
+				8AE50C951F0E1BF300DC01F9 /* Model */,
+				8AE50C8D1F0E0C1500DC01F9 /* ViewContollers */,
+				8AE50C881F0E0BB100DC01F9 /* Utils */,
+				8AE50C871F0E0B8800DC01F9 /* UI */,
 				8AE50C6F1F0E0A1300DC01F9 /* AppDelegate.swift */,
-				8AE50C711F0E0A1300DC01F9 /* ViewController.swift */,
 				8AE50C731F0E0A1300DC01F9 /* Main.storyboard */,
 				8AE50C761F0E0A1400DC01F9 /* Assets.xcassets */,
 				8AE50C781F0E0A1400DC01F9 /* LaunchScreen.storyboard */,
 				8AE50C7B1F0E0A1400DC01F9 /* Info.plist */,
 			);
 			path = Auth_LoginScreen;
+			sourceTree = "<group>";
+		};
+		8AE50C871F0E0B8800DC01F9 /* UI */ = {
+			isa = PBXGroup;
+			children = (
+				8AE50C831F0E0B6D00DC01F9 /* LoginTextField.swift */,
+				8AE50C851F0E0B7900DC01F9 /* LoginButton.swift */,
+			);
+			name = UI;
+			sourceTree = "<group>";
+		};
+		8AE50C881F0E0BB100DC01F9 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				8AE50C891F0E0BC600DC01F9 /* KeystoreAuthenticator.swift */,
+			);
+			name = Utils;
+			sourceTree = "<group>";
+		};
+		8AE50C8D1F0E0C1500DC01F9 /* ViewContollers */ = {
+			isa = PBXGroup;
+			children = (
+				8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */,
+				8AE50C8B1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift */,
+				8A3923791F132B83004C985A /* TestViewController.swift */,
+			);
+			name = ViewContollers;
+			sourceTree = "<group>";
+		};
+		8AE50C951F0E1BF300DC01F9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8AE50C961F0E1C1200DC01F9 /* DataAccess.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,6 +149,7 @@
 				8AE50C681F0E0A1300DC01F9 /* Sources */,
 				8AE50C691F0E0A1300DC01F9 /* Frameworks */,
 				8AE50C6A1F0E0A1300DC01F9 /* Resources */,
+				8AE50C941F0E0CC200DC01F9 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -137,8 +213,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8AE50C721F0E0A1300DC01F9 /* ViewController.swift in Sources */,
+				8AE50C841F0E0B6D00DC01F9 /* LoginTextField.swift in Sources */,
+				8AE50C861F0E0B7900DC01F9 /* LoginButton.swift in Sources */,
+				8A39237A1F132B83004C985A /* TestViewController.swift in Sources */,
+				8AE50C721F0E0A1300DC01F9 /* StartViewController.swift in Sources */,
+				8AE50C8C1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift in Sources */,
+				8AE50C8A1F0E0BC600DC01F9 /* KeystoreAuthenticator.swift in Sources */,
 				8AE50C701F0E0A1300DC01F9 /* AppDelegate.swift in Sources */,
+				8AE50C971F0E1C1200DC01F9 /* DataAccess.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -264,6 +346,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Y5WTWWM9T5;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks/Release",
+				);
 				INFOPLIST_FILE = Auth_LoginScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sap.Auth-LoginScreen";
@@ -277,6 +363,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = Y5WTWWM9T5;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Frameworks/Release",
+				);
 				INFOPLIST_FILE = Auth_LoginScreen/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "sap.Auth-LoginScreen";
@@ -304,6 +394,7 @@
 				8AE50C801F0E0A1400DC01F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

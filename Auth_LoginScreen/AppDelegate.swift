@@ -7,15 +7,26 @@
 //
 
 import UIKit
+import SAPFoundation
+import SAPCommon
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    //var northwindEntities: NorthwindEntitiesDataAccess!
+    
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+
+        
+        // Show the actual authentication' view controller
+
+        let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let loginview = storyboard.instantiateViewController(withIdentifier: "login") as! BasicAuth_ownLoginController
+        //self.window?.makeKeyAndVisible()
+        self.window?.rootViewController = loginview
         return true
     }
 
