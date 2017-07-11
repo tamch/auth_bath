@@ -11,6 +11,7 @@ import UIKit
 class StartViewController: UIViewController {
     
    
+    @IBOutlet weak var loginText: UITextField!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -24,6 +25,7 @@ class StartViewController: UIViewController {
     }
 
     override func viewDidAppear(_ animated: Bool) {
+        loginText.text = "SAP Cloud Platform successful login"
         
         
 

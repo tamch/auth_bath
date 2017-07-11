@@ -27,37 +27,43 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
     
     @IBAction func loginTapped(_ sender: AnyObject) {
         
-       self.errorWindow.text = ""
-        // Validate
-       if (self.usernameTextField.text!.isEmpty || self.passwordTextField.text!.isEmpty) {
+        self.errorWindow .isHidden = true
+        var er_text: String = ""
+        self.errorWindow.text = ""
+        
+        // Validate for username and password
+        if (self.usernameTextField.text!.isEmpty || self.passwordTextField.text!.isEmpty) {
             print("Username or Password is missing")
             self.errorWindow.text = "Username or Password is missing"
-            print("1", errorWindow.text)
             self.errorWindow .isHidden = false
             return
         }
         
         let sapUrlSession = SAPURLSession(delegate: self)
-        
-                var urlSession: SAPURLSession!
+        var urlSession: SAPURLSession!
         urlSession = sapUrlSession
         
+        //check authorization via get call
         urlSession.register(SAPcpmsObserver(settingsParameters: DataAccess.Constants.configurationParameters))
         var request = URLRequest(url: DataAccess.Constants.appUrl)
         request.httpMethod = "GET"
         
-
+        //read reponse
         let dataTask = sapUrlSession.dataTask(with: request) { data, response, error in
 
             guard let response = response as? HTTPURLResponse, response.statusCode == 200 else {
                 if error != nil {
                     print("localization message")
-                    //self.errorWindow.text = "ocalization message"
-                    //self.errorWindow.isHidden = false
+                    er_text = "localization message"
                 } else {
-                    print("Check your credentials!")
-                    //self.ertext = "Check your credentials!"
-                    print("1", self.ertext)
+                    DispatchQueue.main.async {
+                        print("Check your credentials!")
+                        er_text = "Check your credentials!"
+                    }
+                }
+                DispatchQueue.main.async {
+                    self.errorWindow.text = er_text
+                    self.errorWindow.isHidden = false
                 }
                 return
             }
@@ -71,9 +77,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
                 DispatchQueue.main.async {
                     let storyboard = UIStoryboard(name: "Main", bundle: nil)
                     let StartScreen = storyboard.instantiateViewController(withIdentifier: "StartScreen") as! StartViewController
-                    
                     self.appDelegate.window?.rootViewController = StartScreen
-
                 }
             } else {
                 print("Logon process failure. It seems you got SAML authentication challenge.")

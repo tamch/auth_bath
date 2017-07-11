@@ -22,10 +22,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         
         // Show the actual authentication' view controller
-
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         let loginview = storyboard.instantiateViewController(withIdentifier: "login") as! BasicAuth_ownLoginController
-        //self.window?.makeKeyAndVisible()
         self.window?.rootViewController = loginview
         return true
     }

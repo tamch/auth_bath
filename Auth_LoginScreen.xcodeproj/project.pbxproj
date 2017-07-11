@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8A39237A1F132B83004C985A /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3923791F132B83004C985A /* TestViewController.swift */; };
 		8AE50C701F0E0A1300DC01F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C6F1F0E0A1300DC01F9 /* AppDelegate.swift */; };
 		8AE50C721F0E0A1300DC01F9 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */; };
 		8AE50C751F0E0A1300DC01F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AE50C731F0E0A1300DC01F9 /* Main.storyboard */; };
@@ -40,7 +39,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8A3923791F132B83004C985A /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 		8AE50C6C1F0E0A1300DC01F9 /* Auth_LoginScreen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Auth_LoginScreen.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AE50C6F1F0E0A1300DC01F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
@@ -126,7 +124,6 @@
 			children = (
 				8AE50C711F0E0A1300DC01F9 /* StartViewController.swift */,
 				8AE50C8B1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift */,
-				8A3923791F132B83004C985A /* TestViewController.swift */,
 			);
 			name = ViewContollers;
 			sourceTree = "<group>";
@@ -215,7 +212,6 @@
 			files = (
 				8AE50C841F0E0B6D00DC01F9 /* LoginTextField.swift in Sources */,
 				8AE50C861F0E0B7900DC01F9 /* LoginButton.swift in Sources */,
-				8A39237A1F132B83004C985A /* TestViewController.swift in Sources */,
 				8AE50C721F0E0A1300DC01F9 /* StartViewController.swift in Sources */,
 				8AE50C8C1F0E0BF100DC01F9 /* BasicAuth_ownLogin.swift in Sources */,
 				8AE50C8A1F0E0BC600DC01F9 /* KeystoreAuthenticator.swift in Sources */,
