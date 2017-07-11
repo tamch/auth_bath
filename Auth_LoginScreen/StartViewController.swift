@@ -10,9 +10,18 @@ import UIKit
 
 class StartViewController: UIViewController {
     
-   
-    @IBOutlet weak var loginText: UITextField!
+    private let appDelegate = UIApplication.shared.delegate as! AppDelegate
 
+    @IBOutlet weak var loginText: UITextField!
+    @IBOutlet weak var clearStore: UIButton!
+    
+    
+    @IBAction func clearStore(_ sender: Any) {
+        // store username and password in secure store
+        let authenticator = appDelegate.authenticator
+        authenticator?.clearCredential()
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
                 // Do any additional setup after loading the view, typically from a nib.

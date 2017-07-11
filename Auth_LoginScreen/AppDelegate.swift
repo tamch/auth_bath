@@ -14,7 +14,7 @@ import SAPCommon
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-    //var northwindEntities: NorthwindEntitiesDataAccess!
+    var authenticator: KeystoreAuthenticator!
     
 
 
@@ -22,9 +22,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         
         // Show the actual authentication' view controller
-        let storyboard = UIStoryboard(name: "Main", bundle: nil)
-        let loginview = storyboard.instantiateViewController(withIdentifier: "login") as! BasicAuth_ownLoginController
-        self.window?.rootViewController = loginview
+        //let storyboard = UIStoryboard(name: "Main", bundle: nil)
+        //let loginview = storyboard.instantiateViewController(withIdentifier: "login") as! BasicAuth_ownLoginController
+        //self.window?.rootViewController = loginview
+
+        authenticator = KeystoreAuthenticator()
+        authenticator.authenticate_keystore()
+
         return true
     }
 

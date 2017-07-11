@@ -11,7 +11,6 @@ import SAPFoundation
 import SAPCommon
 
 class KeystoreAuthenticator: NSObject, SAPURLSessionDelegate {
-    private let logger = Logger.shared(named: "KeystoreAuthenticator")
     private var store: SecureKeyValueStore! = nil
     private let encryptionKey = "mySuperStrongEncryptionKey"
     private var username: String!
@@ -35,7 +34,7 @@ class KeystoreAuthenticator: NSObject, SAPURLSessionDelegate {
                 self.password = password
             }
         } catch let error {
-            self.logger.error(error.localizedDescription)
+            print(error.localizedDescription)
         }
     }
     
@@ -47,7 +46,7 @@ class KeystoreAuthenticator: NSObject, SAPURLSessionDelegate {
         request.httpMethod = "GET"
         
         let dataTask = urlSession.dataTask(with: request) { (data, response, error) in
-            self.logger.info("OK")
+            print("OK")
         }
         dataTask.resume()
     }
@@ -58,7 +57,52 @@ class KeystoreAuthenticator: NSObject, SAPURLSessionDelegate {
             try self.store.put(username, forKey: "username")
             try self.store.put(password, forKey: "password")
         } catch let error {
-            self.logger.error(error.localizedDescription)
+            print(error.localizedDescription)
         }
     }
+    
+    public func clearCredential() {
+        do {
+            try self.store!.open(with: self.encryptionKey)
+            try self.store.removeAll()
+        } catch let error {
+            print(error.localizedDescription)
+        }
+    }
+    
+    func sapURLSession(_ session: SAPURLSession,
+                       task: SAPURLSessionTask,
+                       didReceive challenge: URLAuthenticationChallenge,
+                       completionHandler: @escaping (SAPURLSession.AuthChallengeDisposition) -> Void) {
+        if challenge.protectionSpace.authenticationMethod == NSURLAuthenticationMethodServerTrust {
+            let credential = URLCredential(trust: challenge.protectionSpace.serverTrust!)
+            completionHandler(.use(credential))
+        } else if challenge.protectionSpace.authenticationMethod == NSURLAuthenticationMethodHTTPBasic {
+            if let username = self.username, let password = self.password {
+                let cred = URLCredential(user: username,
+                                         password: password,
+                                         persistence: URLCredential.Persistence.forSession)
+                completionHandler(.use(cred))
+                let appDelegate = UIApplication.shared.delegate as! AppDelegate
+                //appDelegate.urlSession = urlSession
+            } else {
+                presentBasicAuthViewController()
+            }
+        } else {
+            print("Unknown authentication method")
+        }
+    }
+    
+    private func presentBasicAuthViewController() {
+        DispatchQueue.main.async {
+            let storyboard: UIStoryboard? = UIStoryboard(name: "Main", bundle: nil)
+            let logonViewController = (storyboard?.instantiateViewController(withIdentifier: "login"))
+                as! BasicAuth_ownLoginController
+            let appDelegate = UIApplication.shared.delegate as! AppDelegate
+            let rootViewController = appDelegate.window?.rootViewController
+            rootViewController?.present(logonViewController, animated: false, completion: {})
+        }
+    }
+
+
 }

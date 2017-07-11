@@ -22,7 +22,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
     
     var activeTextField: UITextField?
     private let appDelegate = UIApplication.shared.delegate as! AppDelegate
-    var ertext: String = ""
+
 
     
     @IBAction func loginTapped(_ sender: AnyObject) {
@@ -74,7 +74,14 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
                 urlSession = sapUrlSession
                 print("successful")
                 
+                // store username and password in secure store
+                let authenticator = self.appDelegate.authenticator
+                authenticator?.storeCredential(username: self.usernameTextField.text!,
+                                               password: self.passwordTextField.text!)
+
+                
                 DispatchQueue.main.async {
+                   
                     let storyboard = UIStoryboard(name: "Main", bundle: nil)
                     let StartScreen = storyboard.instantiateViewController(withIdentifier: "StartScreen") as! StartViewController
                     self.appDelegate.window?.rootViewController = StartScreen
