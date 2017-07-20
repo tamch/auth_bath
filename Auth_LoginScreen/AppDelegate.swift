@@ -15,6 +15,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     var authenticator: KeystoreAuthenticator!
+    var oDataAccess: ODataAccess!
+    var urlSession: SAPURLSession! {
+        didSet {
+            self.oDataAccess = ODataAccess(urlSession: urlSession)
+        }
+    }
     
 
 
@@ -25,7 +31,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         //let storyboard = UIStoryboard(name: "Main", bundle: nil)
         //let loginview = storyboard.instantiateViewController(withIdentifier: "login") as! BasicAuth_ownLoginController
         //self.window?.rootViewController = loginview
-
+        
+        /// the variable in the AppDelegate holding the current active session to the HCP
+        
         authenticator = KeystoreAuthenticator()
         authenticator.authenticate_keystore()
 

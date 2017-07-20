@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/DataAccess.swift"
-            timestampString = "521022502.443258"
+            timestampString = "521516478.408532"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "init(urlSession:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521425951.650347"
+            timestampString = "521629091.103332"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521438093.421657"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "91"
-            endingLineNumber = "91"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
             <Locations>
@@ -138,11 +138,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -154,11 +154,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
             <Locations>
@@ -202,11 +202,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "68"
-            endingLineNumber = "68"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -218,11 +218,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521438093.421657"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "132"
-            endingLineNumber = "132"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -234,39 +234,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
-            landmarkName = "loginTapped(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
-            landmarkName = "loginTapped(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
+            timestampString = "521532938.191985"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "49"
@@ -282,11 +250,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521425551.873437"
+            timestampString = "521532938.191985"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "74"
-            endingLineNumber = "74"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "loginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
+            timestampString = "521532938.191985"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "loginTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
+            timestampString = "521599675.973848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -298,11 +298,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521425951.650347"
+            timestampString = "521629091.103332"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -314,11 +314,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521425951.650347"
+            timestampString = "521629091.103332"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -346,11 +346,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521438093.421657"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "96"
-            endingLineNumber = "96"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
             landmarkName = "loginTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -362,11 +362,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
-            timestampString = "521438093.421657"
+            timestampString = "521599675.973848"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
             landmarkName = "viewWillDisappear(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -374,15 +374,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521435333.651321"
+            timestampString = "521681539.442446"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -390,15 +390,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521435333.651321"
+            timestampString = "521681539.442446"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -406,15 +406,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/AppDelegate.swift"
-            timestampString = "521435333.651321"
+            timestampString = "521681539.442446"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
             landmarkName = "application(_:didFinishLaunchingWithOptions:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -426,11 +426,1549 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521435368.925134"
+            timestampString = "522131917.242524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "initializeSecureStore()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.(initializeSecureStore in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
+                  timestampString = "521453059.28369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1322">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.(initializeSecureStore in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
+                  timestampString = "521453059.285774"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1411">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522137809.752049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "initializeSecureStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522131917.242524"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "initializeSecureStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522137809.752049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "initializeSecureStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522137809.752049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "initializeSecureStore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "145"
+            endingLineNumber = "145"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "presentBasicAuthViewController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "presentBasicAuthViewController()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.((presentBasicAuthViewController in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
+                  timestampString = "521507090.082774"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "796">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.((presentBasicAuthViewController in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
+                  timestampString = "521507090.08559"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "clearCredential()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/StartViewController.swift"
+            timestampString = "521946034.34406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/StartViewController.swift"
+            timestampString = "521946034.34406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "viewDidAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
+            timestampString = "521599675.973848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "isSAMLChallenge(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
+            timestampString = "521599675.973848"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "isSAMLChallenge(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "clearCredential()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "clearCredential()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "clearCredential()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/BasicAuth_ownLogin.swift"
+            timestampString = "521599659.832646"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loginTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.BasicAuth_ownLoginController.(loginTapped (Swift.AnyObject) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/BasicAuth_ownLogin.swift"
+                  timestampString = "521600840.643494"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.BasicAuth_ownLoginController.(loginTapped (Swift.AnyObject) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/BasicAuth_ownLogin.swift"
+                  timestampString = "521600840.645337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "306">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/StartViewController.swift"
+            timestampString = "521627487.43307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "StartViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.StartViewController.(oDataAccess in _5854437CC3A914929C6F68E666F2B67E).getter : Swift.Optional&lt;Auth_LoginScreen.ODataAccess&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/StartViewController.swift"
+                  timestampString = "521625112.106835"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.StartViewController.(oDataAccess in _5854437CC3A914929C6F68E666F2B67E).setter : Swift.Optional&lt;Auth_LoginScreen.ODataAccess&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/StartViewController.swift"
+                  timestampString = "521625112.108614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "61">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.StartViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Auth_LoginScreen.StartViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/StartViewController.swift"
+                  timestampString = "521625112.110401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "343">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.StartViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Auth_LoginScreen.StartViewController&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/StartViewController.swift"
+                  timestampString = "521625112.112332"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "244">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/StartViewController.swift"
+            timestampString = "521946034.34406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "readData(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/StartViewController.swift"
+            timestampString = "521946034.34406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "readData(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "521627487.43307"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "RegisteredUsersViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "521629110.748736"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "RegisteredUsersViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.PeopleTable.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.930273"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.PeopleTable.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.932467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (style : __C.UITableViewStyle) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.934499"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.936537"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Auth_LoginScreen.RegisteredUsersViewController&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.938813"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "521629112.994885"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "RegisteredUsersViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.PeopleTable.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.945678"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.PeopleTable.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITableView&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.948132"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (style : __C.UITableViewStyle) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.949991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.951927"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Auth_LoginScreen.RegisteredUsersViewController&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.953897"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522113794.242337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fruits"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.fruits.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.961314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.fruits.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.963888"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (style : __C.UITableViewStyle) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.966103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.967958"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "455">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Auth_LoginScreen.RegisteredUsersViewController&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707827.969884"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init(urlSession:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522113794.242337"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "RegisteredUsersViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.fruits.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707852.172596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.fruits.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707852.174926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (style : __C.UITableViewStyle) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707852.177323"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Auth_LoginScreen.RegisteredUsersViewController"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707852.17926"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "455">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Auth_LoginScreen.RegisteredUsersViewController&gt;"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "521707852.181138"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "356">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "48"
             endingLineNumber = "48"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/People.swift"
+            timestampString = "521711975.638721"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "people(query:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.563737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.568173"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/People.swift"
+            timestampString = "521712252.268485"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "people(query:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "521712252.275073"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "38">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(default argument 0)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "521712252.277911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "RegisteredUsersViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.ODataAccess.loadPeople (completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/ODataAccess.swift"
+                  timestampString = "521954916.769576"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "243">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.ODataAccess.(loadPeople (completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/ODataAccess.swift"
+                  timestampString = "521954916.771062"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/ODataAccess.swift"
+            timestampString = "522054518.866908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "ODataAccess"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/People.swift"
+            timestampString = "521962763.194261"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "people(query:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.573571"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.575822"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/People.swift"
+            timestampString = "521962765.581611"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "people(query:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.580024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.People.(people (query : SAPOData.DataQuery, completionHandler : (Swift.Optional&lt;Swift.Array&lt;Auth_LoginScreen.PeopleType&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()).(closure #1).(closure #2)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/People.swift"
+                  timestampString = "522208292.581826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.viewDidLoad () -&gt; ()"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "522057072.123668"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Auth_LoginScreen.RegisteredUsersViewController.(viewDidLoad () -&gt; ()).(closure #1)"
+                  moduleName = "Auth_LoginScreen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/RegisteredUsersViewController.swift"
+                  timestampString = "522057072.126978"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "109">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "didReceiveMemoryWarning()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
             landmarkName = "authenticate_keystore()"
             landmarkType = "7">
             <Locations>
@@ -442,12 +1980,12 @@
                   moduleName = "Auth_LoginScreen"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521435368.932889"
+                  timestampString = "522207914.213922"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "48"
-                  endingLineNumber = "48"
-                  offsetFromSymbolStart = "771">
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "692">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -457,12 +1995,12 @@
                   moduleName = "Auth_LoginScreen"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521435368.93713"
+                  timestampString = "522207914.216398"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "49"
-                  endingLineNumber = "49"
-                  offsetFromSymbolStart = "27">
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "36">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -470,15 +2008,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521435377.191566"
+            timestampString = "522207913.713491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
             landmarkName = "authenticate_keystore()"
             landmarkType = "7">
          </BreakpointContent>
@@ -486,175 +2024,79 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521435612.846107"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
-            landmarkName = "initializeSecureStore()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.(initializeSecureStore in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()"
-                  moduleName = "Auth_LoginScreen"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521439126.901273"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "1020">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.(initializeSecureStore in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()"
-                  moduleName = "Auth_LoginScreen"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521439126.903203"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "1080">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521435655.52446"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "initializeSecureStore()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521435730.54081"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "initializeSecureStore()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
+            timestampString = "522207913.713491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "77"
             endingLineNumber = "77"
-            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
+            landmarkName = "authenticate_keystore()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
-            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521438119.816998"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "initializeSecureStore()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521438121.487539"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "initializeSecureStore()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "89"
-            endingLineNumber = "89"
-            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
+            timestampString = "522207913.713491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "92"
             endingLineNumber = "92"
+            landmarkName = "authenticate_keystore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "authenticate_keystore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/RegisteredUsersViewController.swift"
+            timestampString = "522152693.023241"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
+            timestampString = "522207913.713491"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
             landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -662,80 +2104,48 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
+            timestampString = "522207913.713491"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "98"
-            endingLineNumber = "98"
-            landmarkName = "presentBasicAuthViewController()"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "authenticate_keystore()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
+            timestampString = "522207931.123093"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "103"
-            endingLineNumber = "103"
-            landmarkName = "presentBasicAuthViewController()"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.((presentBasicAuthViewController in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()).(closure #1)"
-                  moduleName = "Auth_LoginScreen"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521439126.930033"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "104"
-                  endingLineNumber = "104"
-                  offsetFromSymbolStart = "688">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Auth_LoginScreen.KeystoreAuthenticator.((presentBasicAuthViewController in _120DC0876AEBAD3E13BDB74505E2BEED) () -&gt; ()).(closure #1).(closure #1)"
-                  moduleName = "Auth_LoginScreen"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/i064303/dev/xcode/SAP_SDK_1.1.0/Auth_LoginScreen/Auth_LoginScreen/KeystoreAuthenticator.swift"
-                  timestampString = "521439126.931402"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "104"
-                  endingLineNumber = "104"
-                  offsetFromSymbolStart = "0">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Auth_LoginScreen/KeystoreAuthenticator.swift"
-            timestampString = "521439817.210506"
+            timestampString = "522207934.45538"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
-            landmarkName = "clearCredential()"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "sapURLSession(_:task:didReceive:completionHandler:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

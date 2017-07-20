@@ -41,6 +41,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
         
         let sapUrlSession = SAPURLSession(delegate: self)
         var urlSession: SAPURLSession!
+        
         urlSession = sapUrlSession
         
         //check authorization via get call
@@ -49,6 +50,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
         request.httpMethod = "GET"
         
         //read reponse
+
         let dataTask = sapUrlSession.dataTask(with: request) { data, response, error in
 
             guard let response = response as? HTTPURLResponse, response.statusCode == 200 else {
@@ -71,7 +73,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
             // We should check if we got SAML challenge from the server or not
             if !self.isSAMLChallenge(response) {
 
-                urlSession = sapUrlSession
+                self.appDelegate.urlSession = sapUrlSession
                 print("successful")
                 
                 // store username and password in secure store
@@ -79,7 +81,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
                 authenticator?.storeCredential(username: self.usernameTextField.text!,
                                                password: self.passwordTextField.text!)
 
-                
+                //Call the next step
                 DispatchQueue.main.async {
                    
                     let storyboard = UIStoryboard(name: "Main", bundle: nil)
@@ -97,6 +99,10 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
     }
     
     private func isSAMLChallenge(_ response: HTTPURLResponse) -> Bool {
+        //print("statuscode=",response.statusCode)
+        //print(response.allHeaderFields["com.sap.cloud.security.login"])
+        //print("saml=",response.statusCode == 200 && ((response.allHeaderFields["com.sap.cloud.security.login"]) != nil) )
+        //print(response)
         return response.statusCode == 200 && ((response.allHeaderFields["com.sap.cloud.security.login"]) != nil)
     }
     
@@ -122,7 +128,7 @@ class BasicAuth_ownLoginController: UIViewController, SAPURLSessionDelegate, UIT
         }
         
        let credential = URLCredential(user: self.usernameTextField.text!, password: self.passwordTextField.text!, persistence: .forSession)
-       completionHandler(.use(credential))
+        completionHandler(.use(credential))
     }
     
     // for status bar to show icon white and change it back when leaving view

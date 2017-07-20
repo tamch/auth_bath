@@ -20,7 +20,11 @@ class DataAccess {
     struct Constants {
         
         static let appId = "com.sap.FirstApp"
-        private static let sapcpmsUrlString = "https://hcpms-p1941341579trial.hanatrial.ondemand.com/"
+        // HSG
+        // PEAKS https://mobilepreview-a02ddc86d.hana.ondemand.com/"
+        // Felix Muster https://hcpms-p1941341579trial.hanatrial.ondemand.com
+        private static let sapcpmsUrlString = "https://mobilepreview-a02ddc86d.hana.ondemand.com/"
+        //private static let sapcpmsUrlString = "https://hcpms-p1941341579trial.hanatrial.ondemand.com"
         static let sapcpmsUrl = URL(string: sapcpmsUrlString)!
         static let appUrl = Constants.sapcpmsUrl.appendingPathComponent(appId)
         static let samlAuthURL = URL(string: "\(sapcpmsUrl.absoluteString)SAMLAuthLauncher")!
